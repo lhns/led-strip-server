@@ -12,7 +12,7 @@ val V = new {
   val http4s = "0.23.25"
   val http4sDom = "0.2.0"
   val http4sSpa = "0.6.1"
-  val logbackClassic = "1.5.6"
+  val logbackClassic = "1.5.17"
   val scalajsDom = "2.1.0"
   val scalajsReact = "2.0.0"
 }
